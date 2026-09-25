@@ -121,5 +121,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developed By
 
-**Waris**
-📧 Reach me out at: Warishayat666@gmail.com
+**Nimra**
+📧 Reach me out at: nimraabdulhaqq@gmail.com
